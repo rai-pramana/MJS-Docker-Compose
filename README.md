@@ -1,7 +1,7 @@
 # Docker_Compose_MJS-C
 
-# Tugas Pengganti UTS 
-# Membuat dan Menjalankan Docker Compose di Linux Debian 11
+Tugas Pengganti UTS 
+Membuat dan Menjalankan Docker Compose di Linux Debian 11
 
 Nama		        : I Kadek Rai Pramana
 NIM		          : 2105551094
